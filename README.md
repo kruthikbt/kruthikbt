@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                               💫Hi,👋I'm Kruthik BT
 🌱I'm Currently Learning.....
 
 
