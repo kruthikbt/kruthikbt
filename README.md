@@ -1,7 +1,5 @@
 #                                               💫Hi,👋I'm Kruthik BT
 🌱I'm Currently Learning.....
-# 💫 About Me:
- <<<<🌱I'm Currently Learning>>>><br>
 
 
 ## 🌐 Socials:
