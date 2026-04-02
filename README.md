@@ -1,4 +1,10 @@
-## Hi there 👋
+<div>
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Kruthik</h1> 
+<div>
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="320"/>
 
 ## 💻 Tech Stack:
 
@@ -16,12 +22,13 @@
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kruthikbt&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kruthikbt&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kruthikbt&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kruthikbt&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kruthikbt&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=kruthikbt&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
-<img height="169em" src="https://nirzak-streak-stats.vercel.app?user=kruthikbt&theme=radical">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kruthikbt&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikbt&theme=tokyonight&hide_border=true" /> </p>
+
+### 🔥 Contribution Graph 
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruthikbt&theme=react-dark" /> </p>
+
+
+
 
 </div><br>
