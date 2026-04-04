@@ -24,7 +24,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kruthikbt&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikbt&theme=tokyonight&hide_border=true" /> </p>
 
-### 🔥 Contribution Graph 
+### Contribution Graph 
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruthikbt&theme=react-dark" /> </p>
 
