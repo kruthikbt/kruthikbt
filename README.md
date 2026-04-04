@@ -5,6 +5,7 @@
      src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
      alt="Profile Image"
      width="320"/>
+<hr>
 
 ## 💻 Tech Stack:
 
@@ -17,12 +18,14 @@
 </div>
 
 <br>
+<hr>
 
 ## 📊 GitHub Stats:
 
 <div align="center">
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kruthikbt&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikbt&theme=tokyonight&hide_border=true" /> </p>
+<hr>
 
 ### Contribution Graph 
 
