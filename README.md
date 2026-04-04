@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,bash,=11" />
 </a>
 
 </div>
