@@ -22,7 +22,7 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1050" height="450" rx="12" fill="url(#bgGrad)"/>
+  <rect width="750" height="250" rx="12" fill="url(#bgGrad)"/>
 
   <!-- Floating particles -->
   <circle r="3" fill="#58a6ff" opacity="0.6">
@@ -35,8 +35,8 @@
   </circle>
 
   <!-- Main name text -->
-  <text x="340" y="125" text-anchor="middle" font-family="'Segoe UI', sans-serif"
-        font-size="80" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="6">
+  <text x="330" y="125" text-anchor="middle" font-family="'Segoe UI', sans-serif"
+        font-size="60" font-weight="600" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="6">
     KRUTHIK BT
     <animate attributeName="opacity" values="0;0;1;1" dur="1.2s" fill="freeze"/>
   </text>
