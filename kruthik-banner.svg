@@ -22,14 +22,14 @@
   </defs>
 
   <!-- Background -->
-  <rect width="680" height="300" rx="12" fill="url(#bgGrad)"/>
+  <rect width="1050" height="450" rx="12" fill="url(#bgGrad)"/>
 
   <!-- Floating particles -->
   <circle r="3" fill="#58a6ff" opacity="0.6">
     <animateMotion path="M 80 80 Q 200 40 340 100 Q 480 160 600 80" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.8;0" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle r="2.5" fill="#bc8cff" opacity="0.6">
+  <circle r="5.5" fill="#bc8cff" opacity="0.6">
     <animateMotion path="M 600 120 Q 450 60 340 100 Q 200 140 80 100" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.7;0" dur="8s" repeatCount="indefinite"/>
   </circle>
@@ -37,13 +37,13 @@
   <!-- Main name text -->
   <text x="340" y="125" text-anchor="middle" font-family="'Segoe UI', sans-serif"
         font-size="80" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="6">
-    KRUTHIK
+    KRUTHIK BT
     <animate attributeName="opacity" values="0;0;1;1" dur="1.2s" fill="freeze"/>
   </text>
 
   <!-- Shimmer sweep -->
   <rect x="-200" y="60" width="120" height="80" rx="4" fill="white" opacity="0.06">
-    <animateTransform attributeName="transform" type="translate" values="-200,0;900,0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="-200,0;900,0" dur="5s" begin="1.5s" repeatCount="indefinite"/>
   </rect>
 
   <!-- Underline -->
@@ -55,7 +55,7 @@
   <!-- Subtitle -->
   <text x="340" y="175" text-anchor="middle" font-family="'Segoe UI', sans-serif"
         font-size="14" fill="#8b949e" letter-spacing="4" opacity="0">
-    &lt; developer / &gt;
+    &lt; AI Enthusiast / &gt;
     <animate attributeName="opacity" values="0;0;0;1" dur="2s" fill="freeze"/>
   </text>
 
