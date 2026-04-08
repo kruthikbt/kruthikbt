@@ -22,7 +22,7 @@
   </defs>
 
   <!-- Background -->
-  <rect width="680" height="200" rx="12" fill="url(#bgGrad)"/>
+  <rect width="680" height="300" rx="12" fill="url(#bgGrad)"/>
 
   <!-- Floating particles -->
   <circle r="3" fill="#58a6ff" opacity="0.6">
