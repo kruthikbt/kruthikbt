@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,c++,python,javascript,git,bash,=11" />
+<img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,bash,=11" />
 </a>
 
 </div>
