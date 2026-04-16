@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0a0f1c;
+    color: white;
+}
+
+.container {
+    padding: 40px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 14px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    opacity: 0.9;
+}
+
+.portfolio { background: #555; }
+.website { background: #3ab0ff; }
+.instagram { background: #e4405f; }
+.linkedin { background: #0a66c2; }
+.twitter { background: #000; }
+.gmail { background: #ea4335; }
+.discord { background: #5865f2; }
+
+.line {
+    margin-top: 30px;
+    height: 3px;
+    background: linear-gradient(to right, #ff4d6d, #4cc9f0);
+}
