@@ -1,5 +1,5 @@
 ## My Contribution snake
-![Contribution snake example](https://github.com/<kruthikbt>/<kruthikbt>/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/kruthikbt/kruthikbt/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Kruthik](./kruthik-banner.svg)
