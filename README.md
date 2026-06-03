@@ -1,6 +1,4 @@
-## 🐍 My Contribution Snake
 
-![Contribution Snake](https://github.com/kruthikbt/kruthikbt/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Kruthik](./kruthik-banner.svg)
