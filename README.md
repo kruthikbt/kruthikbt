@@ -4,7 +4,7 @@
 
 ![Kruthik](./kruthik-banner.svg)
 <div>
-  src="https://github.com/kruthikbt/kruthikbt/raw/main/github-user-contribution.svg"
+  <img src="https://github.com/kruthikbt/kruthikbt/raw/main/github-user-contribution.svg">
   <h1 align="center">!!!    Hello !!!  <img  src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height= "40" width="40" alt="meetjain1" 
 <img align="right"  hspace=" -40"
      src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
