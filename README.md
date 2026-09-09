@@ -41,17 +41,10 @@
 
 <img src="https://streak-stats.vercel.app/?user=kruthikbt&theme=tokyonight&hide_border=true" />
 
-</p>
 
-<hr>
 
-### Contribution Graph 
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kruthikbt&theme=react-dark" />
-
-</p>
 
 </div>
 
