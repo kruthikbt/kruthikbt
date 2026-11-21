@@ -1,4 +1,4 @@
-
+ 
 ![Kruthik](./kruthik-banner.svg)
 
 <div align="center">
