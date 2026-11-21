@@ -6,7 +6,7 @@
   <img src="https://github.com/kruthikbt/kruthikbt/raw/main/github-user-contribution.svg" alt="GitHub Contribution Graph" width="100%">
 
   <h1 align="center">
-    Hello!!! 
+    Hello Guys!!! 
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="Waving Hand" />
   </h1>
 
