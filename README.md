@@ -33,6 +33,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -41,8 +42,9 @@
 
   <br><br>
 
-  <img src="https://streak-stats.vercel.app/?user=kruthikbt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kruthikbt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <br>
+
